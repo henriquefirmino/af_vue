@@ -56,9 +56,9 @@
 <script>
   export default {
     data: () => ({ drawer: null,
-    items:[{ title: 'Dashboard', icon: 'mdi-view-dashboard' },
-          { title: 'Photos', icon: 'mdi-image' },
-          { title: 'About', icon: 'mdi-help-box' },
+    items:[{ title: 'Tarefas', icon: 'mdi-view-dashboard' },
+          { title: 'Imagens', icon: 'mdi-image' },
+          { title: 'Sobre', icon: 'mdi-help-box' },
         ],
       }),
   }
